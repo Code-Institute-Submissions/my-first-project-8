@@ -44,6 +44,7 @@ h3{
     text-decoration: none;
 }
 
+
 /*nav styling starts here */
 
 #menu {
@@ -75,7 +76,8 @@ letter-spacing: 0.1em;
 
 /*nav styling ends here */
 
-/*mid section styling starts here*/
+
+/*main section styling starts here*/
 
 #reasons{
   height: 466px;
@@ -86,7 +88,10 @@ letter-spacing: 0.1em;
 }
 
 
+/*main section styling ends here*/
 
+
+/*footer styling starts here */
 
 .footer {
   color: #e1470c;
@@ -100,4 +105,37 @@ letter-spacing: 0.1em;
   position: fixed;
 }
 
+/*footer styling ends here */
+
+
+/*timetable styling starts here*/
+
+table {
+  border-collapse: collapse; /*used the following site to lean about border-collapse property: https://dev.to/dcodeyt/creating-beautiful-html-tables-with-css-428l*/
+  margin: 0 auto;
+  table-layout: fixed; /*used the following site to lean about table-layoutcss property: https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout*/
+  width: 50%;
 }
+
+th, td {
+  color:#2e4443;
+  font-size: 100%;
+  text-align: center;
+  border: 1px solid teal;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+th {
+  text-transform: uppercase;
+}
+
+#timetable-caption {
+  font-size: 200%;
+  text-align: center;
+  color: #e1470c;
+  padding: 1em;
+}
+
+
+/*timetable styling ends here*/
