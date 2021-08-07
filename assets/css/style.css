@@ -91,13 +91,27 @@ letter-spacing: 0.1em;
 #reasons{
   height: 466px;
   width: 30%;
-  margin: 2% 0 0 10%;
-  padding: 1em;
-  background-color:#FFD9BD;
+  height: 466px;
+  width: 30%;
+  margin-top:3em;
+  margin-left: 10%;
   border-radius: 2%;
-  /*float: left;*/
+  background-color:#FFD9BD;
+  padding: 1em;
 }
 
+
+#container-img {
+  width: 45%;
+  height: 498px;
+  margin-right: 10%;
+  position: relative;
+  border-radius: 2%;
+  background-color:#FFD9BD;
+  left: 45%;
+  bottom: 498px;
+  overflow: hidden; 
+}
 
 /*main section styling ends here*/
 
