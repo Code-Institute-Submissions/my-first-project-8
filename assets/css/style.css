@@ -93,7 +93,8 @@ letter-spacing: 0.1em;
   width: 30%;
   margin: 2% 0 0 10%;
   padding: 1em;
-  background-color: #FE5000;
+  background-color:#FFD9BD;
+  border-radius: 2%;
   /*float: left;*/
 }
 
