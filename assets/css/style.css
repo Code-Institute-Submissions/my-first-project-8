@@ -30,3 +30,16 @@ h1 {
     font-size: 70%;
     text-transform: none;   
 }
+
+h2{
+    color: #e1470c;
+}
+
+h3{
+    color:teal;
+}
+
+.link {
+    color: #e1470c;
+    text-decoration: none;
+}
