@@ -85,3 +85,19 @@ letter-spacing: 0.1em;
   /*float: left;*/
 }
 
+
+
+
+.footer {
+  color: #e1470c;
+  background-color: rgb(220, 248, 248);
+  text-align: center;
+  bottom: 0;
+  margin-left: 10%;
+  width: 80%;
+  height: 2em;
+  padding:1em;
+  position: fixed;
+}
+
+}
