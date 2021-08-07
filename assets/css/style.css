@@ -43,3 +43,45 @@ h3{
     color: #e1470c;
     text-decoration: none;
 }
+
+/*nav styling starts here */
+
+#menu {
+  font-size: 100%;
+  list-style-type: none;
+  text-transform: uppercase;
+  text-align: center;
+  border-top:  1px solid #e1470c;
+  border-bottom: 1px solid  #e1470c;
+  margin: 0 10%;
+}
+
+#menu a {
+text-decoration: none;
+color:teal;
+}
+
+#menu a:hover {
+  color: #e1470c;
+  font-weight: 700;
+}
+
+nav li {
+display: inline;
+padding-right: 50px;
+line-height: 2.5em;
+letter-spacing: 0.1em;
+}
+
+/*nav styling ends here */
+
+/*mid section styling starts here*/
+
+#reasons{
+  height: 466px;
+  width: 30%;
+  margin: 2% 0 0 10%;
+  padding: 1em;
+  /*float: left;*/
+}
+
