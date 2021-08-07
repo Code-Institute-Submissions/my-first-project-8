@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&family=Roboto&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body {
+  font-family: Roboto;
+  color:#2e4443;
+}
+
+h1 {
+  font-family: Merienda;
+  color: #e1470c;
+  font-size: 300%;
+  text-transform: capitalize;
+  text-align: center;
+  padding: 5%;
+}
+
+.header {
+    height: 250px;
+    width: 100%;
+}
+
+.logo-text-lower {
+    color:#2e4443;
+    font-size: 70%;
+    text-transform: none;   
+}
