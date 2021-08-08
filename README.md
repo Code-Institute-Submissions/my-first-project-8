@@ -29,12 +29,12 @@ The target audience are working parents who are looking for flexible after-schoo
 
 ### Design choices
 
-    * Colour Scheme
-    The three main colours used are orange, teal and shade of gray. I find that these colours complement each other and are pleasing to the eye.
+* Colour Scheme
+The three main colours used are orange, teal and shade of gray. I find that these colours complement each other and are pleasing to the eye.
 
-    * Typography
-    The Roboto font is the main font used throughout the whole website. Roboto was chosen for its friendly features.
-    Merienda font is ideal for headlines.
+* Typography
+The Roboto font is the main font used throughout the whole website. Roboto was chosen for its friendly features.
+Merienda font is ideal for headlines.
 
 
 ### Wireframes
