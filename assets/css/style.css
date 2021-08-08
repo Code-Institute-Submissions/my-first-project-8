@@ -119,6 +119,14 @@ letter-spacing: 0.1em;
   overflow: hidden; 
 }
 
+/* the bellow code was adopted from the TutorialRepublic https://www.tutorialrepublic.com/faq/how-to-auto-resize-an-image-to-fit-into-a-div-container-using-css.php*/
+
+img{
+  max-width: 100%;
+  max-height: auto;
+  display: block;
+}
+
 /*main section styling ends here*/
 
 
