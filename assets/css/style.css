@@ -95,15 +95,13 @@ letter-spacing: 0.1em;
 /*main section styling starts here*/
 
 #reasons{
-  height: 450px;
   width: 30%;
   height: 466px;
-  width: 30%;
   margin-top:3em;
   margin-left: 10%;
   border-radius: 2%;
   background-color:#FFD9BD;
-  padding: 1em;
+  padding: 1em;*
 }
 
 
